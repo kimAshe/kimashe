@@ -25,7 +25,7 @@ if(!fs.existsSync('./ams.json')){
     console.log(data,"data");
     AccountRepositories.accounts = JSON.parse(data) ;
 };
-
+dsds
 
 console.log(AccountRepositories.accounts,"23232");
     
